@@ -13,7 +13,7 @@ Project-Meeting-room
 ## 📦 Installation
 
 ### 1. Clone โปรเจกต์
-ใส่เป็นลิงค์github ของตัวเอง
+https://github.com/Suriya728/Project-Meeting-room.git
 ### 2. รัน Development Server
 python manage.py runserver
 ### ก่อนเข้าสู่ระบบ (Guest)
